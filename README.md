@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Thacks+For+Visit&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks+For+Visit&fontAlign=40&fontAlignY=40&color=gradient)
 
 Hello My Name Is Shin_SeoungMin
 This Is My Git_Hub!!
@@ -7,9 +7,9 @@ Plz Loving to read my Work!
 
 ### Skills
 
-    Language & Frameworks
+Language & Frameworks
 
-    ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 
@@ -26,7 +26,3 @@ Infra & Tools
 
 ### This Is My Visitor's Number
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhitecrowclown&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-# Reference
-    https://www.notion.so/23-09-20-23e5c522a4ed4e009579f4308d9082c1
