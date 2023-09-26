@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Thacks+For+Visit&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Thacks+For+Visit&fontAlign=40&fontAlignY=40&color=gradient)
 
 Hello My Name Is Shin_SeoungMin
 This Is My Git_Hub!!
