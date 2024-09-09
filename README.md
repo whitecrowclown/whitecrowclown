@@ -1,7 +1,3 @@
-확실히 기술 목록을 조금 더 돋보이게 꾸며드리겠습니다. 마크다운에서 기술들을 더 눈에 띄게 배치하고 각 기술에 대해 간단한 설명을 추가했습니다.
-
----
-
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks+For+Visit&fontAlign=40&fontAlignY=40&color=gradient)
 
 # Hello! My Name Is **Shin SeoungMin**  
@@ -64,7 +60,3 @@ Currently, I am fluent in the following languages and technologies:
 ### 📈 **This Is My Visitor's Number**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhitecrowclown&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
----
-
-Hope this revision looks more visually engaging!
