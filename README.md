@@ -3,9 +3,13 @@
 # Hello! My Name Is **Shin SeoungMin**  
 Welcome to my GitHub!
 
-I am a passionate individual dreaming of living a **digital nomad** lifestyle. My focus is on building a versatile and adaptive career path that allows me to work remotely while exploring new cultures and environments. I thrive on the idea of blending technology with freedom, leveraging the internet to connect and create, no matter where I am in the world.
+I am a passionate individual dreaming of living a digital nomad lifestyle. My focus is on building a versatile and adaptive career path that allows me to work remotely while exploring new cultures and environments. I thrive on the idea of blending technology with freedom, leveraging the internet to connect and create, no matter where I am in the world. This freedom allows me to take on new challenges and continuously push the boundaries of my own skills and knowledge.
 
-For a deeper look at my skills, experiences, and projects, feel free to visit my **my-profile-by-html** repository, where I have curated a more detailed and organized profile of my work. Alternatively, you can always check out my website at **questionalist.com** to stay up-to-date with my latest endeavors.
+For a deeper look at my skills, experiences, and projects, feel free to visit my my-profile-by-html repository, where I have curated a more detailed and organized profile of my work. Alternatively, you can always check out my website at questionalist.com to stay up-to-date with my latest endeavors. This platform is a reflection of my journey, where I not only document my achievements but also share insights and learnings from my ongoing projects.
+
+Whether it's coding, problem-solving, or discovering new tools, I am always looking for ways to grow. My journey is driven by curiosity and the desire to learn continuously. Each new project, whether large or small, contributes to my personal growth and technical expertise. I believe that technology has the power to connect people and ideas across the world, and I strive to be at the forefront of this movement.
+
+The digital nomad lifestyle represents more than just working remotely. It’s a mindset that emphasizes adaptability, lifelong learning, and the freedom to chart one's own course. I am committed to continuously improving my technical skills, while also exploring new technologies and methodologies to stay ahead in this fast-evolving industry. My passion for technology is matched by my love for discovery, and I am excited to see where this journey will take me.
 
 ---
 
